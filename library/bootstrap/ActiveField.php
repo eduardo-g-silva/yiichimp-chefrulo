@@ -13,7 +13,7 @@ use usni\library\utils\Html;
  * 
  * @package usni\library\bootstrap
  */
-class ActiveField extends \yii\bootstrap\ActiveField
+class ActiveField extends \yii\bootstraps\ActiveField
 {
     /**
      * Bootstrap tooltip hint display for the field
