@@ -1,6 +1,6 @@
 {
     "name": "ushainformatique/yiichimp",
-    "description": "YiiChimp is a web development framework written on top of high performance yii2 framework.",
+    "description": "YiiChimp is a web development framework written on top of high performance yii2 framework. forked for bootstrap 5 by eduardo",
     "keywords": [
         "yiichimp",
         "framework"
