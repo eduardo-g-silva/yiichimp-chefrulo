@@ -15,7 +15,7 @@ use usni\library\modules\notification\models\Notification;
  *
  * @package usni\library\modules\notification\widgets
  */
-class StatusLabel extends \yii\bootstrap\Widget
+class StatusLabel extends \yii\bootstrap5\Widget
 {
     /**
      * @var ActiveRecord|array 

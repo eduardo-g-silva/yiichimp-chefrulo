@@ -7,7 +7,7 @@ namespace usni\library\bootstrap;
 
 use usni\library\utils\Html;
 use yii\bootstrap\BootstrapAsset;
-use yii\bootstrap\Widget;
+use yii\bootstrap5\Widget;
 /**
  * Label renders a label bootstrap component.
  *

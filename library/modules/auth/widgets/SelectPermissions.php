@@ -14,7 +14,7 @@ use yii\helpers\Inflector;
  *
  * @package usni\library\modules\auth\widgets
  */
-class SelectPermissions extends \yii\bootstrap\Widget
+class SelectPermissions extends \yii\bootstrap5\Widget
 {
     public $model;
     

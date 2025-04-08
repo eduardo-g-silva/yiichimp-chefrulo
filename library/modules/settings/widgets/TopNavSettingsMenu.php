@@ -14,7 +14,7 @@ use usni\UsniAdaptor;
  *
  * @package usni\library\modules\settings\widgets
  */
-class TopNavSettingsMenu extends \yii\bootstrap\Widget
+class TopNavSettingsMenu extends \yii\bootstrap5\Widget
 {
     /**
      * @var boolean 

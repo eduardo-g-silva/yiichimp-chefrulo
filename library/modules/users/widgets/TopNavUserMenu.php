@@ -14,7 +14,7 @@ use usni\UsniAdaptor;
  *
  * @package usni\library\modules\users\widgets
  */
-class TopNavUserMenu extends \yii\bootstrap\Widget
+class TopNavUserMenu extends \yii\bootstrap5\Widget
 {
     /**
      * Layout for the top nav menu

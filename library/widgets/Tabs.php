@@ -11,7 +11,7 @@ namespace usni\library\widgets;
  *
  * @package usni\library\modules\users\widgets
  */
-class Tabs extends \yii\bootstrap\Widget
+class Tabs extends \yii\bootstrap5\Widget
 {
     /**
      * Layout for the tabbed view

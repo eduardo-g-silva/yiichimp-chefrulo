@@ -13,7 +13,7 @@ use usni\library\modules\users\models\User;
  * 
  * @package usni\library\modules\service\widgets
  */
-class RunServices extends \yii\bootstrap\Widget
+class RunServices extends \yii\bootstrap5\Widget
 {
     /**
      * inheritdoc

@@ -13,7 +13,7 @@ use usni\library\utils\Html;
  *
  * @package usni\library\bootstrap
  */
-class BulkEditFormButton extends \yii\bootstrap\Widget
+class BulkEditFormButton extends \yii\bootstrap5\Widget
 {
     /**
      * Layout under which buttons would be rendered

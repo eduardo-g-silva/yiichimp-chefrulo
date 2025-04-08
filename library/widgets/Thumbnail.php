@@ -15,7 +15,7 @@ use usni\library\utils\Html;
  *
  * @package usni\library\widgets
  */
-class Thumbnail extends \yii\bootstrap\Widget
+class Thumbnail extends \yii\bootstrap5\Widget
 {
     /**
      * @var ActiveRecord|Object 

@@ -14,7 +14,7 @@ use usni\UsniAdaptor;
  *
  * @package usni\library\bootstrap
  */
-class FormButtons extends \yii\bootstrap\Widget
+class FormButtons extends \yii\bootstrap5\Widget
 {
     /**
      * Layout under which buttons would be rendered

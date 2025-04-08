@@ -14,7 +14,7 @@ use yii\bootstrap\Dropdown;
  *
  * @package usni\library\widgets
  */
-class DetailActionToolbar extends \yii\bootstrap\Widget
+class DetailActionToolbar extends \yii\bootstrap5\Widget
 {
     /**
      * Delete url for the model

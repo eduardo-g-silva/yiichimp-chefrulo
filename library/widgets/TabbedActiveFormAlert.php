@@ -12,7 +12,7 @@ use usni\UsniAdaptor;
  *
  * @package usni\library\widgets
  */
-class TabbedActiveFormAlert extends \yii\bootstrap\Widget
+class TabbedActiveFormAlert extends \yii\bootstrap5\Widget
 {
     /**
      * Form model

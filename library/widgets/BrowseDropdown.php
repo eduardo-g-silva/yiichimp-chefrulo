@@ -16,7 +16,7 @@ use usni\library\db\ActiveRecord;
  *
  * @package usni\library\widgets
  */
-class BrowseDropdown extends \yii\bootstrap\Widget
+class BrowseDropdown extends \yii\bootstrap5\Widget
 {
     /**
      * @var boolean Flag to check if permission has to be checked or not 

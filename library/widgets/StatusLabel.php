@@ -15,7 +15,7 @@ use usni\UsniAdaptor;
  *
  * @package usni\library\widgets
  */
-class StatusLabel extends \yii\bootstrap\Widget
+class StatusLabel extends \yii\bootstrap5\Widget
 {
     /**
      * @var ActiveRecord|array 

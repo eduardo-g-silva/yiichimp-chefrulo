@@ -18,7 +18,7 @@ use yii\helpers\Url;
  *
  * @package usni\library\grid
  */
-class ActionToolbar extends \yii\bootstrap\Widget
+class ActionToolbar extends \yii\bootstrap5\Widget
 {
     /**
      * @var string
