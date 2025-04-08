@@ -103,7 +103,7 @@ class ActiveForm extends \yii\bootstrap5\ActiveForm
      * inheritdoc
      * @return ActiveField the created ActiveField object
      */
-    public function field($model, $attribute, $options = array())
+    public function field($model, $attribute, $options = []): \yii\bootstrap5\ActiveField
     {
         return parent::field($model, $attribute, $options);
     }
