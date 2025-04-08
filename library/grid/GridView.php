@@ -8,7 +8,7 @@ namespace usni\library\grid;
 use usni\library\utils\Html;
 use yii\grid\DataColumn;
 use usni\UsniAdaptor;
-use yii\bootstrap\Modal;
+use yii\bootstrap5\Modal;
 use yii\widgets\Pjax;
 use usni\library\utils\StringUtil;
 use yii\helpers\Inflector;

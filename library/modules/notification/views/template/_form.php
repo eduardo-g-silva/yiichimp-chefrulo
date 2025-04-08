@@ -9,7 +9,7 @@ use usni\library\modules\notification\widgets\FormButtons;
 use marqu3s\summernote\Summernote;
 use usni\library\modules\notification\utils\NotificationUtil;
 use usni\library\modules\notification\utils\NotificationScriptUtil;
-use yii\bootstrap\Modal;
+use yii\bootstrap5\Modal;
 
 /* @var $this \usni\library\web\AdminView */
 /* @var $formDTO \usni\library\modules\notification\dto\TemplateFormDTO */

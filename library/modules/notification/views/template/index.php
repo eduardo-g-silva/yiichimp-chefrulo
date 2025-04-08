@@ -9,7 +9,7 @@ use usni\library\grid\ActionToolbar;
 use yii\grid\CheckboxColumn;
 use usni\library\modules\notification\utils\NotificationUtil;
 use usni\library\modules\notification\models\NotificationTemplate;
-use yii\bootstrap\Modal;
+use yii\bootstrap5\Modal;
 use usni\library\modules\notification\utils\NotificationScriptUtil;
 use usni\library\modules\notification\grid\PreviewActionColumn;
 
