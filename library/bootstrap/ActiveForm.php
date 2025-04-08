@@ -11,7 +11,7 @@ use usni\library\bootstrap\ActiveField;
  * 
  * @package usni\library\bootstrap
  */
-class ActiveForm extends \yii\bootstraps5\ActiveForm
+class ActiveForm extends \yii\bootstrap5\ActiveForm
 {
     /**
      * @inheritdoc
